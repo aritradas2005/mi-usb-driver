@@ -1,6 +1,6 @@
 # Mi USB Driver
 
-USB drivers for **Xiaomi / Mi / Redmi / POCO** devices on Windows. Install these so your
+USB drivers for **Xiaomi / Redmi / POCO** devices on Windows. Install these so your
 computer can recognize your phone for **ADB**, **Fastboot**, **MTP file transfer**, and
 flashing / unlocking operations with tools like Mi Flash and Mi Unlock.
 
